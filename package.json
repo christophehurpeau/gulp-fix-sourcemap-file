@@ -1,0 +1,17 @@
+{
+  "name": "gulp-fix-sourcemap-file",
+  "version": "0.1.0",
+  "description": "Fix file property in file.sourceMap",
+  "license": "MIT",
+  "author": "Christophe Hurpeau <christophe@hurpeau.com> (http://christophe.hurpeau.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christophehurpeau/gulp-fix-sourcemap-file.git"
+  },
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {
+    "through2": "^0.5.1"
+  }
+}
