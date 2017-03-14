@@ -1,5 +1,7 @@
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/gulp-fix-sourcemap-file.svg)](https://greenkeeper.io/)
+
 ```
 npm install --save-dev gulp-fix-sourcemap-file
 ```
